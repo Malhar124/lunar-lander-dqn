@@ -2,7 +2,7 @@
 
 # 🛰️ Lunar Lander with Deep Q-Learning (DQN)
 
-This project implements a reinforcement learning agent that learns to land a spacecraft safely using Deep Q-Learning (DQN). Built with PyTorch and OpenAI Gymnasium, the agent learns through trial-and-error and eventually lands with >95% success rate 🚀
+This project implements a reinforcement learning agent that learns to land a spacecraft safely using Deep Q-Learning (DQN). Built with PyTorch and OpenAI Gymnasium, the agent learns through trial-and-error and eventually lands with >80% success rate 🚀
 
 ## 📽️ Demo
 

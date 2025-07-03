@@ -36,7 +36,8 @@ This project implements a reinforcement learning agent that learns to land a spa
 ## 📁 Files
 
 - `Lunar_Lander_DQN.ipynb` — Main training and evaluation notebook
-- `assets/` — Learning curve or visual assets
+- `learning_curve.png` - Learning Curve
+- `demo_landing.mp4` - Demo Landing Video
 - `requirements.txt` — Dependencies
 
 ## ⚙️ Installation

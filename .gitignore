@@ -1,0 +1,38 @@
+# Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+pip-log.txt
+
+# Colab temp files
+*.swp
+*.bak
+*~ 
+.DS_Store
+
+# PyTorch model checkpoints
+*.pth
+*.pt
+
+# TensorBoard logs
+runs/
+events.out.tfevents.*
+
+# VSCode settings (if used)
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Google Drive mount path (if used in Colab)
+drive/

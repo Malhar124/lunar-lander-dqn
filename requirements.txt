@@ -1,0 +1,8 @@
+---
+
+## 📦 `requirements.txt` (Dependencies)
+```txt
+gymnasium
+torch
+numpy
+matplotlib

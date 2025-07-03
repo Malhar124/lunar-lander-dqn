@@ -6,7 +6,7 @@ This project implements a reinforcement learning agent that learns to land a spa
 
 ## 📽️ Demo
 
-![Learning Curve](assets/learning_curve.png)
+![Learning Curve](learning_curve.png)
 
 ## 🚀 Features
 - From-scratch implementation of Deep Q-Network (DQN)
